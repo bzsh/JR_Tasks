@@ -1,0 +1,6 @@
+Petya 1.1
+Gena 21.4
+Serg 12.34
+Pasha 4.3
+Petya 21.0
+Serg 9.76
